@@ -1,0 +1,9 @@
+langchain==0.2.15
+langchain_community==0.2.14
+langchain_core==0.2.36
+langchain_openai==0.1.23
+python-dotenv==1.0.1
+SQLAlchemy==2.0.30
+streamlit==1.38.0
+tiktoken==0.7.0
+zep_cloud==1.0.9

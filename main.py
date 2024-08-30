@@ -7,11 +7,11 @@ import os
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from prompt_template import system_prompt
 
-st.set_page_config(page_title="Context aware chatbot", page_icon="⭐")
-st.header("Context aware chatbot")
-st.write("Enhancing Chatbot Interactions through Context Awareness")
+st.set_page_config(page_title="您的好伙伴", page_icon="⭐")
+st.header("您的私人监督师")
+st.write("A chatbot based on langchain, zep, deepseek and streamlit.")
 st.write(
-    "[![view source code ](https://img.shields.io/badge/view_source_code-gray?logo=github)](https://github.com/shashankdeshpande/langchain-chatbot/blob/master/pages/2_%E2%AD%90_context_aware_chatbot.py)"
+    "[![view source code ](https://img.shields.io/badge/view_source_code-gray?logo=github)](https://github.com/Tensionteng/friend-supervisor)"
 )
 
 
